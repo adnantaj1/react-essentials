@@ -1,5 +1,5 @@
 
-export function CoreConcepts({ image, title, description }) {
+export function CoreConcept({ image, title, description }) {
   return (
     <li>
       <img src={image} alt={title} />
